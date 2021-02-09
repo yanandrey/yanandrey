@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**yanandrey/yanandrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align='center'>
+  Hi there 👋 I'm Yan 👨‍💻
+</h1>
 
-Here are some ideas to get you started:
+<p align='center'>
+  I’m currently learning .NET and Entity Framework.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/yanandrey/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;  
+  <a href="https://wa.me/5515996875269?text=Olá,%20Yan!">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;
+</p>
+
+<p align='center'>
+  📫 How to reach me: <a href='mailto:yanandrey88@gmail.com'>yanandrey88@gmail.com</a>
+</p>
