@@ -2,12 +2,7 @@
   Hi there 👋 I'm Yan 👨‍💻
 </h1>
 
-<p align='center'>
-  I’m currently learning .NET and Entity Framework.
-</p>
-
-<p align='center'>
-  
+<p align='center'>  
   <a href="https://www.linkedin.com/in/yanandrey/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;  
